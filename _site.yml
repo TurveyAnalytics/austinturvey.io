@@ -8,18 +8,17 @@ navbar:
       icon: fa-home
       href: index.html
     - text: "CV"
-      icon: fa-file-pdf-o
+      icon: fa-file
       href: cv.html
     - text: "Projects"
       icon: fa-project-diagram
       href: https://YOURGITHUB.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
   right:
-    - text: "Contact me"
-      icon: fa-envelope-o
+    - icon: fa-envelope
       href: mailto:austinalan98@gmail.com                    # CHANGE HERE 
-    - icon: fa-linkedin
+    - icon: fab fa-linkedin
       href: https://www.linkedin.com/in/austin-turvey/       # CHANGE HERE 
-    - icon: fa-github
+    - icon: fab fa-github
       href: https://github.com/TurveyAnalytics 
 output:
   html_document:
