@@ -1,5 +1,15 @@
 ---
-title: "Welcome to my website!"
+title: "Hi there, I'm Austin Turvey!"
+output:
+  html_document:
+    includes:
+      in_header: cover.html
 ---
+```{r package, echo = FALSE}
+library(fontawesome)
+```
 
-Test 2
+
+I am a Master's student in applied economics, and an `r fa(name = "r-project", fill = "steelblue")` enthusiast. 
+
+[Read more about me..](about.html)

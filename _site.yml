@@ -6,7 +6,7 @@ navbar:
   left:
     - text: "About"
       icon: fa-home
-      href: index.html
+      href: about.html
     - text: "Resume"
       icon: fa-file
       href: cv.html
