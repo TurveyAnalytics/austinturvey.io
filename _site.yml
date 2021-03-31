@@ -7,7 +7,7 @@ navbar:
     - text: "About"
       icon: fa-home
       href: index.html
-    - text: "CV"
+    - text: "Resume"
       icon: fa-file
       href: cv.html
     - text: "Projects"

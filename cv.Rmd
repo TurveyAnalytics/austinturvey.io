@@ -1,9 +1,49 @@
 ---
-title: "CV"
+title: "Resume"
 ---
 
-<a href="pdf/CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>			
+<a href="pdf/CV.pdf#" class="download" title="Download CV as PDF">Download My Resume</a>			
 
-## My background:
+## Highlights:
 
-Say more about your CV here.
+### Education:
+    
+  - Masters of Science, Applied Economics
+      * University of Oregon
+      * Current GPA: 4.03
+      * Focus in econometrics and data science.
+  - Bachelors of Science, Applied Economics
+      * University of Oregon
+      * Graduated June 2020
+      * Summa Cum Laude, final GPA: 4.13
+      * Minor in CS and BA
+  
+### Experience:
+  
+  - Data Science Intern, Higher Logic
+      * From June - End of September 2019
+  
+### Academic Research:
+  
+  - Predicting Student Graduation and Dropout Probabilities Using Gradient Boosting
+  - Oregon Cities and Vehicle Collisions: How Does Population Size and Law Enforcement Presence Affect Crash Frequency?
+    
+### Software Skills:
+  
+  - R
+      * Libraries: Tidymodels, Tidyverse, GGplot2, Dplyr, Sparklyr, data.tables, Corrr, Purrr, Keras
+  - SQL
+  - Python
+      * Libraries: Pandas, Numpy, Matploptlib, Scikit-learn, Keras
+  - Git
+  - Spark
+  - Unix/Shell
+  - R Markdown
+      * HTML
+      * PDF
+      * Website (How I made this!)
+  - Tableau
+  - Jupyter Notebook
+  - React
+  
+
