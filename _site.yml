@@ -12,7 +12,10 @@ navbar:
       href: cv.html
     - text: "Projects"
       icon: fa-project-diagram
-      href: https://YOURGITHUB.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
+      menu:
+       - text: Bankruptcy Prediction
+         icon: fa-file-invoice-dollar
+         href: projects/bankruptcy_prediction.html
   right:
     - icon: fa-envelope
       href: mailto:austinalan98@gmail.com                    # CHANGE HERE 
