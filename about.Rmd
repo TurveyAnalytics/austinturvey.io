@@ -9,7 +9,7 @@ library(fontawesome)
 
 ### My professional self:
 
-- I quite fond of **data science** and I am advancing my skills as a data scientist including machine learning and statistical inference.
+- I am quite fond of **data science** and I am advancing my skills as a data scientist including machine learning and statistical inference.
 - I use **R** for all of my work, and in consequence I am always interested in learning new tools and libraries.
 - I am beginning to utilize big data tools such as spark, and google cloud compute.
 - I love making intriguing data visualizations, I consider it a form of `r fa(name = "palette", fill = "blue")`.
