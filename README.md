@@ -11,3 +11,5 @@
 - Contact Info
 
 Here is the link to the website: https://turveyanalytics.github.io/austinturvey.io/
+
+- THe entire website was coded using Rmarkdown
