@@ -19,6 +19,9 @@ title: "Resume"
       * Minor in CS and BA
   
 ### Experience:
+
+  - Research Assistant, University of Oregon
+      * From January 2020 - End of June 2020
   
   - Data Science Intern, Higher Logic
       * From June - End of September 2019
